@@ -50,6 +50,9 @@
                 <mxCell id="18" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;220&amp;nbsp;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: &amp;quot;Google Sans&amp;quot;, arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Ω&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
                     <mxGeometry x="220" y="465" width="60" height="30" as="geometry"/>
                 </mxCell>
+                <mxCell id="19" value="5 V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="450" width="40" height="30" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
